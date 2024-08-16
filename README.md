@@ -1,1 +1,1 @@
-# Visualizing the Backtracking Algorithm with a Python-Based Sudoku Solver
+# Visualizing Backtracking Algorithm with a Python-Based Sudoku Solver
